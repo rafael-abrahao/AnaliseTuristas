@@ -1,3 +1,5 @@
 # AnaliseTuristas
 
-Análise quantitativa dos dados de turistas chegados ao estado do RJ.
+Repositório pessoal para arquivos do meu TCC.
+---
+Fonte dos Dados: ==Portal de Dados Abertos==
